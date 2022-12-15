@@ -70,6 +70,7 @@ public class Main {
         for (int i = 97; i <= 122; i++) {
             char symbol = (char) i;
             map.put(symbol, 0);
+            System.out.println("fklvklj");
         }
     }
 
